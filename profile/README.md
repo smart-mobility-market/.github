@@ -28,8 +28,6 @@ Autonomous driving technologies are transforming smart mobility by providing a s
 
 **Leading Companies Operating in the Smart Meters Industry:**
 
-![](https://www.marketreport.us/wp-content/uploads/2025/05/Smart-Mobility-Market-2.jpg)
-
 *   Cisco Systems Inc.
 *   Excelfore Corporation
 *   Ford Motor Company
@@ -60,8 +58,6 @@ Autonomous driving technologies are transforming smart mobility by providing a s
 *   Others
 
 **By Element:**
-
-![](https://www.marketreport.us/wp-content/uploads/2025/05/Smart-Mobility-Market-3.jpg)
 
 *   Bike Commuting
 *   Car Sharing
